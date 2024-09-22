@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* 
+* Project: 01-css-methods
+* Author: Jason Chambers
+* Date: 2024-09-21
+* Description: Main stylesheet for the website
+*/
+
+@charset "UTF-8"; /* Specify UTF-8 character encoding */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+
+    color: red;
+}
+
